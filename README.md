@@ -1,5 +1,3 @@
-# NimapInfotech_JavaMachineTest
-
 # Category-Product Management System
 
 This is a Spring Boot project that demonstrates CRUD operations for managing Categories and Products, using JPA and Hibernate. The project uses a REST API and has a relational database configuration with server-side pagination for retrieving large sets of data.
